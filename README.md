@@ -40,6 +40,11 @@ I created multiple visualizations to better understand the data, including:
 - Comparative charts for yearly performance  
 
 *(You can find sample outputs in the images section)*
+![Top Customers](Visualization_Images/Top_customers.png)
+![Orders_per_month](Visualization_Images/Orders_per_month.png)
+![YOY_Sales](Visualization_Images/YOY_Sales_analysis.png)
+![Per_state](Visualization_Images/count_asper_state.png)
+
 
 ---
 
